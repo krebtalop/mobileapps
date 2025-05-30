@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382527160417",
+    "project_id": "gitar-e25e2",
+    "storage_bucket": "gitar-e25e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382527160417:android:11cd5d4cd1b561322c6a20",
+        "android_client_info": {
+          "package_name": "com.example.gitar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADF3cO4OiYhcUfF3UipfhzC6vhy8RXPAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
